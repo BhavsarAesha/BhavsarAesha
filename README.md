@@ -81,12 +81,19 @@
 </p>
 
 ---
+### 👨‍💻 Projects
 
-<h3 align="left">Projects:</h3>
 <div align="left">
-- <b><a href="https://github.com/BhavsarAesha/railOne">RailOne</a></b> – Indian Railways-inspired booking & tracking app  
-- <b><a href="https://netfliix-page-aesha.netlify.app/">Netflix Clone</a></b> – Responsive Netflix-style landing page  
-- <b><a href="https://github.com/yourusername/ai-interview">AI Interview Prep</a></b> – AI-powered interview practice app  
+
+- <b><a href="https://github.com/BhavsarAesha/railOne">RailOne</a></b>  
+  <sub>A complete train booking and live tracking application inspired by Indian Railways, built with a responsive design for web and mobile users.</sub>  
+
+- <b><a href="https://netfliix-page-aesha.netlify.app/">Netflix Clone</a></b>  
+  <sub>A responsive Netflix-style landing page built with HTML, CSS, and JavaScript, featuring interactive UI elements and modern web design practices.</sub>  
+
+- <b><a href="https://github.com/BhavsarAesha/MERN-Project">MERN Stack Project</a></b>  
+  <sub>A full-stack web application using MongoDB, Express, React, and Node.js, implementing user authentication, CRUD operations, and a dynamic frontend interface.</sub>  
+
 </div>
 
 ---
