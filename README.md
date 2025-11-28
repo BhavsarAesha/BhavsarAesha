@@ -88,7 +88,7 @@
 - <b><a href="https://github.com/BhavsarAesha/railOne">RailOne</a></b>  
   - A complete train booking and live tracking application inspired by Indian Railways, built with a responsive design for web and mobile users.  
 
-- <b><a href="https://netfliix-page-aesha.netlify.app/">Netflix Clone</a></b>  
+- <b><a href="https://ui-page-aesha.netlify.app/">Netflix Clone</a></b>  
   - A responsive Netflix-style landing page built with HTML, CSS, and JavaScript, featuring interactive UI elements and modern web design practices.  
 
 - <b><a href="https://github.com/BhavsarAesha/MERN-Project">MERN Stack Project</a></b>  
